@@ -1,5 +1,5 @@
 # Elastic Search Documentation
- Priyaranjan Singh | Nineleaps | ranjan@nineleaps.com | 1st Nov 2017
+ Priyaranjan Singh | Nineleaps | ranjan@nineleaps.com | 6 Dec 2017
 #### Introduction
 * A detailed documentation regarding the implementation for elastic search in    linux and windows environments.
 
